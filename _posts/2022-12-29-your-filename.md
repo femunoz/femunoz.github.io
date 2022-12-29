@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 # Microblogging independiente
@@ -142,6 +142,7 @@ La segunda mitad de la receta utiliza el  [canal de Twitter](https://translate.g
 ![](Microblogging%20independiente/a26199d375.png)
 En la acción de tuit, desea reemplazar el texto con el {{EntryContent}}valor especial. Esto tomará el texto completo de la fuente RSS y lo incluirá en el tweet.
 ![](Microblogging%20independiente/730c6548b5.png)
+
 Puede continuar respondiendo y marcando favoritos directamente en Twitter y también en Micro.blog. Las respuestas publicadas directamente en Micro.blog no se incluyen en la fuente RSS de su microblog, por lo que no se enviarán a Twitter.
 WordPress
 Si está usando WordPress, también puede usar complementos para manejar la publicación cruzada. El complemento Jetpack tiene una función llamada Publicize que se conecta a Twitter y otras plataformas. Puede habilitarlo en WordPress en Jetpack → Configuración → Compartir.
