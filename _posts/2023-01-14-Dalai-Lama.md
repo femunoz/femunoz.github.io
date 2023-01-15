@@ -1,5 +1,5 @@
 ---
-Title: ¿Progreso?
+title: ¿Progreso?
 Layout: post
 ---
 En su libro _Conócete a ti mismo tal como eres_, el Dalai Lama hace la siguiente reflexión sobre la ciencia actual y el conocimiento milenario.
