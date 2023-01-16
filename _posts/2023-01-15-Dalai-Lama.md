@@ -2,7 +2,7 @@
 title: ¿Progreso?
 Layout: post
 ---
-En su libro _Conócete a ti mismo tal como eres_, el Dalai Lama hace la siguiente reflexión sobre la ciencia actual y el conocimiento milenario.
+En su libro _Conócete a ti mismo tal como eres_, el Dalai Lama hace la siguiente reflexión 
 
 _"La ciencia y la tecnología no pueden reemplazar los antiguos valores espirituales, responsables, en gran medida, del verdadero progreso de la civilización tal como la conocemos hoy día."_
 
