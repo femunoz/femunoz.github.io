@@ -1,4 +1,3 @@
-# 
 
 *“Esta vez les escribo para contarles de dos ofertas laborales de Scotiabank:**Desarrollador Fullstack Scotiabank y Regional IT Senior Analyst Scotiabank.***
 
