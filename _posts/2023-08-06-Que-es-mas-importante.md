@@ -10,7 +10,7 @@ _"¿No debería ser la **salud** el número uno? Se puede estar sano, enfermar y
    Pero el **tiempo**...
    Nunca puedes perder tiempo y recuperarlo de nuevo.
    No puedes gastar tiempo e ir a ganar más. No puedes comprarlo, alquilarlo o pedirlo prestado.
-   ### _El tiempo es el activo más importante_
+   ### El tiempo es el activo más importante
    _El tiempo es único porque es el único y verdadero igualador"._
 
 Pasaje de
