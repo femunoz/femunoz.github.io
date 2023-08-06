@@ -1,4 +1,7 @@
-# ¿Qué es más importante?
+---
+title: ¿Qué es más importante?
+Layout: post
+---
 
 _"¿No debería ser la **salud** el número uno? Se puede estar sano, enfermar y recuperar la salud.  
    ¿Y el **dinero**? Puedes perder todo tu dinero y luego recuperarlo.  
@@ -7,8 +10,8 @@ _"¿No debería ser la **salud** el número uno? Se puede estar sano, enfermar y
    Pero el **tiempo**...
    Nunca puedes perder tiempo y recuperarlo de nuevo.
    No puedes gastar tiempo e ir a ganar más. No puedes comprarlo, alquilarlo o pedirlo prestado.
-   **El tiempo es el activo más importante**
-   El tiempo es único porque es el único y verdadero igualador"._
+   ### _El tiempo es el activo más importante_
+   _El tiempo es único porque es el único y verdadero igualador"._
 
 Pasaje de
 15 Secretos que la gente de éxito conoce sobre la gestión del tiempo: Los hábitos de productividad de 7 multimillonarios, 13 atletas olímpicos, 29 estudiantes de sobresaliente y 239 emprendedores
