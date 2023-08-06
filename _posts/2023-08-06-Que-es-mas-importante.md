@@ -6,7 +6,7 @@ Layout: post
 _"¿No debería ser la **salud** el número uno? Se puede estar sano, enfermar y recuperar la salud.  
    ¿Y el **dinero**? Puedes perder todo tu dinero y luego recuperarlo.  
    ¿Y los **amigos**? Los amigos son importantes, pero ¿cuántos amigos tenías en la universidad con los que ya no mantienes el contacto? ¿O incluso personas que fueron invitados a tu boda y ese fue el último día que los viste? Sí, los amigos son valiosos, pero los perdemos y hacemos nuevos todo el tiempo.
-Sí, tu **cónyuge** significa todo para ti. Y el 50% de las personas casadas se divorcian, y muchos divorciados consiguen un nuevo marido o mujer que de repente es el amor de su vida.
+   Sí, tu **cónyuge** significa todo para ti. Y el 50% de las personas casadas se divorcian, y muchos divorciados consiguen un nuevo marido o mujer que de repente es el amor de su vida.
    Pero el **tiempo**...
    Nunca puedes perder tiempo y recuperarlo de nuevo.
    No puedes gastar tiempo e ir a ganar más. No puedes comprarlo, alquilarlo o pedirlo prestado.
