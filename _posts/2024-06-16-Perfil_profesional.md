@@ -1,6 +1,8 @@
 ### Perfil profesional
 
-[[../images/foto_perfil.jpg]]
+[../images/foto_perfil.jpg]
+
+
 
 
  
